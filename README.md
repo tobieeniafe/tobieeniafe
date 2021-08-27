@@ -1,7 +1,13 @@
 ### Hi, I'm Tobie! 👋🏾
 
-<!--
-**tobieeniafe/tobieeniafe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I build stuff on servers with Node.js 🚀
+
+- 🌱 I’m currently learning security stuff
+- 👯 I’m looking to collaborate on anything interesting
+- 📫 Feel free to reach me on [twitter](https://twitter.com/tobie_eniafe)
+- 👨🏽‍🦰 He / Him
+
+<!--👨🏽‍🦰**tobieeniafe/tobieeniafe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -10,7 +16,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: [twitter](https://twitter.com/tobie_eniafe)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
