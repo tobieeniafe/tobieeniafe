@@ -1,6 +1,6 @@
-### Hi, I'm Tobie! 👋🏾
+## Hi, I'm Tobie! 👋🏾
 
-## I build stuff on servers with Node.js 🚀
+### I build stuff on servers with Node.js 🚀
 
 - 🌱 I’m currently learning security stuff
 - 👯 I’m looking to collaborate on anything interesting
